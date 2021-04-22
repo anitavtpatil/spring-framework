@@ -1,5 +1,5 @@
 description = "Spring Integration Tests"
-
+fgf
 dependencies {
 	testCompile(project(":spring-aop"))
 	testCompile(project(":spring-beans"))
